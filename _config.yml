@@ -1,0 +1,14 @@
+layout_spectrum: 0.9853057
+typography_spectrum: 0.428035
+color:
+  saturation: 0.2663741
+  lightness: 0.7292364
+  brandStrength: 0.6535008
+  rhythmicContrast: 0.4597149
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: FORGE3D
