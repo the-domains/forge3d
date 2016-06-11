@@ -1,14 +1,26 @@
-layout_spectrum: 0.9853057
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.428035
 color:
-  saturation: 0.2663741
+  saturation: 0
+  brandStrength: 0
   lightness: 0.7292364
-  brandStrength: 0.6535008
-  rhythmicContrast: 0.4597149
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  rhythmicContrast: 0
+layout_spectrum: 0.4907251
 name: FORGE3D
