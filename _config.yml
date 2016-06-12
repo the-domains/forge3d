@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5480607
 color:
   saturation: 0
   brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
   lightness: 0.5964912
+  brandColors:
+    - '#005B8F'
+    - '#FFFFFF'
+    - '#E23038'
+    - '#4687AC'
+    - '#F09498'
+  rhythmicContrast: 0
+typography_spectrum: 0.5480607
 layout_spectrum: 0.4907251
 name: FORGE3D
