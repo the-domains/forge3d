@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5480607
 color:
   saturation: 0
   brandStrength: 0
-  rhythmicContrast: 0
+  lightness: 0.5
   brandColors:
     - '#005B8F'
     - '#FFFFFF'
     - '#E23038'
     - '#4687AC'
     - '#F09498'
-  lightness: 0.5964912
+  rhythmicContrast: 0
 layout_spectrum: 1
 name: FORGE3D
