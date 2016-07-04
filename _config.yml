@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5480607
 color:
   saturation: 0
   brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#005B8F'
-    - '#FFFFFF'
-    - '#E23038'
-    - '#4687AC'
-    - '#F09498'
   lightness: 0.5
+  brandColors:
+    - '#303030'
+    - '#000000'
+    - '#6B6968'
+    - '#9FA09B'
+    - '#CFCFC3'
+  rhythmicContrast: 0
+typography_spectrum: 0.5480607
 layout_spectrum: 0.6033835
 name: FORGE3D
