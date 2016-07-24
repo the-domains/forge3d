@@ -20,6 +20,10 @@ navigation:
     url: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
     name: Etsy store
     type: external
+  - id: 29aee9b4-6950-4e7b-979b-3c3f3428a006
+    url: 2016-06-11-sample.html
+    name: About
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
 collections:
