@@ -24,3 +24,8 @@ color:
   lightness: 0.6942356
 layout_spectrum: 0
 name: FORGE3D
+navigation:
+  - id: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
+    url: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
+    name: Etsy store
+    type: external
