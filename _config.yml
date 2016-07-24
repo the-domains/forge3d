@@ -1,16 +1,6 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.18363129626959562
+content_rating:
+  adult: false
 color:
   saturation: 0.4694444693159312
   brandStrength: 0.9755451350938529
@@ -23,9 +13,24 @@ color:
     - '#333333'
   lightness: 0.0396144799888134
 layout_spectrum: 0.8360042043495923
+logo: null
 name: FORGE3D
 navigation:
   - id: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
     url: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
     name: Etsy store
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
