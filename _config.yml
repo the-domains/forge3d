@@ -10,19 +10,19 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5480607
+typography_spectrum: 0.18363129626959562
 color:
-  saturation: 0.2011278
-  brandStrength: 0
-  rhythmicContrast: 0.5106516
+  saturation: 0.4694444693159312
+  brandStrength: 0.9755451350938529
+  rhythmicContrast: 0.9536227993667126
   brandColors:
-    - '#303030'
-    - '#000000'
-    - '#6B6968'
-    - '#9FA09B'
-    - '#CFCFC3'
-  lightness: 0.6942356
-layout_spectrum: 0
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.0396144799888134
+layout_spectrum: 0.8360042043495923
 name: FORGE3D
 navigation:
   - id: 'https://www.etsy.com/uk/shop/FORGE3Duk?ref=hdr_shop_menu'
