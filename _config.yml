@@ -30,5 +30,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Headline test
+title: THis doesn't woRK!?
 description: Tagline Test
