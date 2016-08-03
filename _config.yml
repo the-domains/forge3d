@@ -1,18 +1,18 @@
-typography_spectrum: 0.18363129626959562
+typography_spectrum: 0.4756209719926119
 content_rating:
   adult: false
 color:
-  saturation: 0.4694444693159312
-  brandStrength: 0.9755451350938529
-  rhythmicContrast: 0.9536227993667126
+  saturation: 0.17764981859363616
+  brandStrength: 0.38939997903071344
+  rhythmicContrast: 0.12436232715845108
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  lightness: 0.0396144799888134
-layout_spectrum: 0.8360042043495923
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  lightness: 0.8152144192717969
+layout_spectrum: 0.08981688064523041
 logo: null
 name: FORGE 3D
 navigation: []
