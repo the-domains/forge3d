@@ -4,7 +4,7 @@
         <description><![CDATA[FORGE 3D]]></description>
         <link>https://thegrid.ai/forge3d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 20:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 20:23:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/forge3d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/forge3d/5d0aa3c6-7041-4360-9d95-3834f8096c92/index.html</link>
             <guid isPermaLink="false">5d0aa3c6-7041-4360-9d95-3834f8096c92</guid>
             <pubDate>Wed, 03 Aug 2016 20:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc77e9ee-5f9d-434d-82c2-a7bd7b922137.jpg">]]></description>
-            <link>https://thegrid.ai/forge3d/1ecfe216-509d-4180-8dec-a4fced863dcb/index.html</link>
-            <guid isPermaLink="false">1ecfe216-509d-4180-8dec-a4fced863dcb</guid>
-            <pubDate>Wed, 03 Aug 2016 20:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37cbc641-bed2-44a0-b7ba-f50a35eccf95.jpg">]]></description>
-            <link>https://thegrid.ai/forge3d/1db5b851-a1c3-4d40-ad1c-de14961dbdf3/index.html</link>
-            <guid isPermaLink="false">1db5b851-a1c3-4d40-ad1c-de14961dbdf3</guid>
-            <pubDate>Wed, 03 Aug 2016 20:21:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
