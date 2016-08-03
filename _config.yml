@@ -14,7 +14,7 @@ color:
   lightness: 0.0396144799888134
 layout_spectrum: 0.8360042043495923
 logo: null
-name: FORGE3D
+name: FORGE 3D
 navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
@@ -30,3 +30,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Headline test
