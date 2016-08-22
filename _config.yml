@@ -1,16 +1,4 @@
 title: FORGE 3D
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 description: 3D printing
 color:
   saturation: 0.1776498185936362
@@ -26,7 +14,6 @@ color:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
 name: FORGE 3D
-style: taylor
 logo: null
 typography_spectrum: 0.4756209719926119
 layout_spectrum: 0.7305765
