@@ -1,21 +1,33 @@
 title: FORGE 3D
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 description: 3D printing
 color:
   saturation: 0.1776498185936362
-  brandStrength: 0.3893999790307134
-  rhythmicContrast: 0.1243623271584511
+  brandStrength: 0.0764411
+  lightness: 0.8152144192717969
   brandColors:
     - '#2F2933'
     - '#01A2A6'
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-  lightness: 0.8152144192717969
+  rhythmicContrast: 0.1243623271584511
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
 name: FORGE 3D
 logo: null
 typography_spectrum: 0.4756209719926119
-layout_spectrum: 0.7305765
+layout_spectrum: 0.5075188
 content_rating:
   adult: false
