@@ -1,33 +1,33 @@
-typography_spectrum: 0.4756209719926119
-content_rating:
-  adult: false
-color:
-  saturation: 0.1776498185936362
-  brandStrength: 0.0764411
-  lightness: 0.8152144192717969
-  brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-  rhythmicContrast: 0.1243623271584511
-layout_spectrum: 0.5075188
-logo: null
-name: FORGE 3D
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
+title: FORGE 3D
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: FORGE 3D
+    permalink:
+      path: '/:title/'
 description: Martin Moore
+color:
+  saturation: 0.1776498185936362
+  brandStrength: 0.0764411
+  rhythmicContrast: 0.1243623271584511
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  lightness: 0.8152144192717969
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/166c019e-3e78-4f48-9cf3-8968cd502a18.png
+name: FORGE 3D
+logo: null
+typography_spectrum: 0.4756209719926119
+layout_spectrum: 0.1723058
+content_rating:
+  adult: false
